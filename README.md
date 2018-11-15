@@ -1,5 +1,2 @@
-<<<<<<< HEAD
+
 # RandX
-=======
-# tiantian
->>>>>>> randx
